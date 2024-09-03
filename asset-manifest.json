@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-mui-multi_select_dropdown/static/css/main.f855e6bc.css",
+    "main.js": "/react-mui-multi_select_dropdown/static/js/main.2db5e066.js",
+    "static/js/453.04a26c72.chunk.js": "/react-mui-multi_select_dropdown/static/js/453.04a26c72.chunk.js",
+    "index.html": "/react-mui-multi_select_dropdown/index.html",
+    "main.f855e6bc.css.map": "/react-mui-multi_select_dropdown/static/css/main.f855e6bc.css.map",
+    "main.2db5e066.js.map": "/react-mui-multi_select_dropdown/static/js/main.2db5e066.js.map",
+    "453.04a26c72.chunk.js.map": "/react-mui-multi_select_dropdown/static/js/453.04a26c72.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.2db5e066.js"
+  ]
+}
